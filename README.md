@@ -1,1 +1,1 @@
-"# capital_gains_tax" 
+"# 양도소득세 계산기" 
